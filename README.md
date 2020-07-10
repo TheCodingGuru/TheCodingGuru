@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## I am thedizzyprogrammer!
+
+## I am a Frontend Web Developer, Indie Game Developer and an App developer. I am also very interested Math, Physics and Electronics. I live in the Northern Hemisphere and love Table tennis and cricket.
+
+
+
+
+
+
 <!--
 **thedizzyprogrammer/thedizzyprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
