@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer) or [@thedizzyprogrammer (Instagram)](https://www.instagram.com/thedizzyprogramer/)
+- 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer) or [@thedizzyprogrammer (Instagram)](https://www.instagram.com/thedizzyprogrammer/)
 
 ### Find me on these Social Networks  
 
