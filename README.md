@@ -2,7 +2,7 @@
 
 ## I am thedizzyprogrammer!
 
-### I am a Frontend Web Developer, Indie Game Developer and an App developer. I am also very interested Math, Physics and Electronics. I live in the Northern Hemisphere and love Table Tennis and Cricket.
+### I am a Frontend Web Developer, Indie Game Developer. I am also very interested Math, Physics and Electronics. I live in the Northern Hemisphere and love Table Tennis and Cricket.
 
 - 💬 Ask me about: Frontend Web Development, Game Development and App Development
 
