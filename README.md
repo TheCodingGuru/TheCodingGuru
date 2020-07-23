@@ -12,8 +12,8 @@
 
 ### Find me on these Social Networks  
 
-- [Twitter](https://twitter.com/d1zzypr06ramm3r)
-- [Instagram](https://www.instagram.com/dizzyprogrammer/)
+- [Twitter](https://twitter.com/dizzyprogrammer)
+- [Instagram](https://www.instagram.com/thedizzyprogrammer/)
 - [GitHub](https://github.com/thedizzyprogrammer)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
 - [itch.io](https://thedizzyprogrammer.itch.io)
