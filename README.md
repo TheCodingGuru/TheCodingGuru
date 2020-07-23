@@ -17,7 +17,7 @@
 - [GitHub](https://github.com/thedizzyprogrammer)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
 - [itch.io](https://thedizzyprogrammer.itch.io)
-- [Reddit](https://www.reddit.com/user/thedizzyprogrammer)
+- [Reddit](https://www.reddit.com/user/thed1zzyprogrammer)
 - [MDN WebDocs](https://developer.mozilla.org/en-US/profiles/thedizzyprogrammer)
 - [Stack Overflow](https://stackoverflow.com/users/13462085/thedizzyprogrammer)
 - [Codepen](https://codepen.io/thedizzyprogrammer)
