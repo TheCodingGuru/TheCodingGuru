@@ -4,13 +4,19 @@
 
 ### I am a Frontend Web Developer, Indie Game Developer. I am also very interested Math, Physics and Electronics. I live in the Northern Hemisphere and love Table Tennis and Cricket.
 
-- 💬 Ask me about: Frontend Web Development, Game Development and App Development
-
-- 😄 Pronouns: He/Him
+- 💬 Ask me about: Frontend Web Development, Game Development and App Development.
 
 - 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer).
 
-- 🌱 I’m currently learning Django and DART
+- 🔭 I’m currently working on Discord/Twitter bots, apps and games.
+/
+- 🌱 I’m currently learning: Django and DART.
+
+- 👯 I’m looking to collaborate on: Games and Software.
+
+- 😄 Pronouns: He/Him.
+
+- ⚡ Fun fact: I am self-taught and I wrote my first "Hello World" when I was 10.
 
 
 ### Find me on these Social Networks  
