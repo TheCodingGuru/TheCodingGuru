@@ -8,12 +8,14 @@
 
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer) or [@thedizzyprogrammer (Instagram)](https://www.instagram.com/thedizzyprogrammer/)
+- 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer).
+
+- 🌱 I’m currently learning Django and DART
+
 
 ### Find me on these Social Networks  
 
 - [Twitter](https://twitter.com/dizzyprogrammer)
-- [Instagram](https://www.instagram.com/thedizzyprogrammer/)
 - [GitHub](https://github.com/thedizzyprogrammer)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
 - [itch.io](https://thedizzyprogrammer.itch.io)
