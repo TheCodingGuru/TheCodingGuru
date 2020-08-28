@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am thedizzyprogrammer!
+## My name is Aditya Kapoor!
 
 ### I am a Frontend Web Developer, Indie Game Developer. I am also very interested Math, Physics and Electronics. I live in the UK and love Table Tennis and Cricket.
 
