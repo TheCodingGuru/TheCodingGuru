@@ -4,7 +4,7 @@
 
 ### I am a Frontend Web Developer, Indie Game Developer. I am also very interested Math, Physics and Electronics. I live in the UK and love Table Tennis and Cricket.
 
-- 💬 Ask me about: Frontend Web Development, Game Development and App Development.
+- 💬 Ask me about: Web Development, Game Development and App Development.
 
 - 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer).
 
