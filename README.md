@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is [Aditya Kapoor](https://www.youtube.com/watch?v=oHg5SJYRHA0)!
+## My name is [Aditya Kapoor](https://www.youtube.com/watch?v=oHg5SJYRHA0?autoplay=1)!
 
 ### I am a Frontend Web Developer, Indie Game Developer. I am also very interested Math, Physics and Electronics. I live in the UK and love Table Tennis and Cricket.
 
