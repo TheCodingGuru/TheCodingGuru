@@ -25,7 +25,7 @@
 - [GitHub](https://github.com/TheCodingGuru)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
 - [itch.io](https:/thecodingguru.itch.io)
-- [Codepen](https://codepen.io/thedizzyprogrammer)
+- [Codepen](https://codepen.io/TheCodingGuru)
 
 
 
