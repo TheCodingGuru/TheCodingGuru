@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: Web Development, Game Development and App Development.
 
-- 📫 How to reach me: Direct Message [@dizzyprogrammer (Twitter)](https://twitter.com/dizzyprogrammer).
+- 📫 How to reach me: Direct Message [@The_Coding_Guru (Twitter)](https://twitter.com/The_Coding_Guru).
 
 - 🔭 I’m currently working on Discord/Twitter bots, apps and games.
 /
@@ -21,13 +21,10 @@
 
 ### Find me on these Social Networks  
 
-- [Twitter](https://twitter.com/dizzyprogrammer)
-- [GitHub](https://github.com/thedizzyprogrammer)
+- [Twitter](https://twitter.com/The_Coding_Guru)
+- [GitHub](https://github.com/TheCodingGuru)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
-- [itch.io](https://thedizzyprogrammer.itch.io)
-- [Reddit](https://www.reddit.com/user/thed1zzyprogrammer)
-- [MDN WebDocs](https://developer.mozilla.org/en-US/profiles/thedizzyprogrammer)
-- [Stack Overflow](https://stackoverflow.com/users/13462085/thedizzyprogrammer)
+- [itch.io](https:/thecodingguru.itch.io)
 - [Codepen](https://codepen.io/thedizzyprogrammer)
 
 
