@@ -24,7 +24,7 @@
 - [Twitter](https://twitter.com/The_Coding_Guru)
 - [GitHub](https://github.com/TheCodingGuru)
 - [YouTube](https://www.youtube.com/channel/UCHwx7PqzzAZU0115KRG8X1A/)
-- [itch.io](https:/thecodingguru.itch.io)
+- [itch](https:/thecodingguru.itch.io)
 - [Codepen](https://codepen.io/TheCodingGuru)
 
 
