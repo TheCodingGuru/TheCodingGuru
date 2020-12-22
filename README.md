@@ -7,13 +7,13 @@
 ### I'm a Software Developer (comfortable with web and game development) and athlete based in England.
 
 
-- 💬 Ask me about: web and game development.
+- 💬 Ask me about web and game development.
 
-- 📫 How to reach me: direct message [@The_Coding_Guru (Twitter)](https://twitter.com/The_Coding_Guru).
+- 📫 Direct message [@The_Coding_Guru (Twitter)](https://twitter.com/The_Coding_Guru) to reach me. 
 
-- 🌱 I’m currently learning: machine Learning. 
+- 🌱 I’m currently learning machine Learning. 
 
-- 👯 I’m looking for: freelance and development opportunities.
+- 👯 I’m looking for freelance and development opportunities.
 
 
 ### Find me on these Social Networks:
