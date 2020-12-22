@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/Him.
 
 
-### Find me on these Social Networks  
+### Find me on these Social Networks:
 
 - [Twitter](https://twitter.com/The_Coding_Guru)
 - [GitHub](https://github.com/TheCodingGuru)
